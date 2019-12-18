@@ -1,2 +1,2 @@
-# BlueSoft_Project
+# Angular_Project
 Proyecto Biblioteca
